@@ -1,0 +1,14 @@
+C:\Backup 2024\Backup 2023\UMG\Plan Sábados\6to\Autómatas y Lenguajes Formales\Módulo 2\ProyectoAutomatas\Prueba1\bin\Debug\net8.0\Prueba1.exe
+C:\Backup 2024\Backup 2023\UMG\Plan Sábados\6to\Autómatas y Lenguajes Formales\Módulo 2\ProyectoAutomatas\Prueba1\bin\Debug\net8.0\Prueba1.deps.json
+C:\Backup 2024\Backup 2023\UMG\Plan Sábados\6to\Autómatas y Lenguajes Formales\Módulo 2\ProyectoAutomatas\Prueba1\bin\Debug\net8.0\Prueba1.runtimeconfig.json
+C:\Backup 2024\Backup 2023\UMG\Plan Sábados\6to\Autómatas y Lenguajes Formales\Módulo 2\ProyectoAutomatas\Prueba1\bin\Debug\net8.0\Prueba1.dll
+C:\Backup 2024\Backup 2023\UMG\Plan Sábados\6to\Autómatas y Lenguajes Formales\Módulo 2\ProyectoAutomatas\Prueba1\bin\Debug\net8.0\Prueba1.pdb
+C:\Backup 2024\Backup 2023\UMG\Plan Sábados\6to\Autómatas y Lenguajes Formales\Módulo 2\ProyectoAutomatas\Prueba1\obj\Debug\net8.0\Prueba1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Backup 2024\Backup 2023\UMG\Plan Sábados\6to\Autómatas y Lenguajes Formales\Módulo 2\ProyectoAutomatas\Prueba1\obj\Debug\net8.0\Prueba1.AssemblyInfoInputs.cache
+C:\Backup 2024\Backup 2023\UMG\Plan Sábados\6to\Autómatas y Lenguajes Formales\Módulo 2\ProyectoAutomatas\Prueba1\obj\Debug\net8.0\Prueba1.AssemblyInfo.cs
+C:\Backup 2024\Backup 2023\UMG\Plan Sábados\6to\Autómatas y Lenguajes Formales\Módulo 2\ProyectoAutomatas\Prueba1\obj\Debug\net8.0\Prueba1.csproj.CoreCompileInputs.cache
+C:\Backup 2024\Backup 2023\UMG\Plan Sábados\6to\Autómatas y Lenguajes Formales\Módulo 2\ProyectoAutomatas\Prueba1\obj\Debug\net8.0\Prueba1.dll
+C:\Backup 2024\Backup 2023\UMG\Plan Sábados\6to\Autómatas y Lenguajes Formales\Módulo 2\ProyectoAutomatas\Prueba1\obj\Debug\net8.0\refint\Prueba1.dll
+C:\Backup 2024\Backup 2023\UMG\Plan Sábados\6to\Autómatas y Lenguajes Formales\Módulo 2\ProyectoAutomatas\Prueba1\obj\Debug\net8.0\Prueba1.pdb
+C:\Backup 2024\Backup 2023\UMG\Plan Sábados\6to\Autómatas y Lenguajes Formales\Módulo 2\ProyectoAutomatas\Prueba1\obj\Debug\net8.0\Prueba1.genruntimeconfig.cache
+C:\Backup 2024\Backup 2023\UMG\Plan Sábados\6to\Autómatas y Lenguajes Formales\Módulo 2\ProyectoAutomatas\Prueba1\obj\Debug\net8.0\ref\Prueba1.dll
